@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://img.wallpapersafari.com/phone/1440/2560/27/32/e1DfHa.jpg');
+    background-size: cover;
+    background-position: center;  
+}
+
+
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px; 
+    font-weight: bold;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(243, 130, 205);
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+
