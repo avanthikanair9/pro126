@@ -33,7 +33,7 @@ function draw() {
     background('#FAC1D9');
     document.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference + "px";
     textSize(difference);
-    fill('#EFC3E6');
+    fill('#FF0833');
     text('Avanthika', 50, 400);
   
 }
